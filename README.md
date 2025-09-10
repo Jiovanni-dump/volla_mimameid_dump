@@ -1,0 +1,14 @@
+# mimameid-user 15 BP1A.250505.005 28 release-keys
+- manufacturer: volla
+- platform: mt6768
+- codename: mimameid
+- flavor: mimameid-user
+- release: 15
+- id: BP1A.250505.005
+- incremental: 28
+- tags: release-keys
+- fingerprint: volla/mimameid/mimameid:15/BP1A.250505.005/28:user/release-keys
+- is_ab: true
+- brand: volla
+- branch: mimameid-user-15-BP1A.250505.005-28-release-keys
+- repo: volla_mimameid_dump
